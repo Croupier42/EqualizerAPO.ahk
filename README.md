@@ -1,7 +1,7 @@
 # EqualizerAPO.ahk
 Скрипт для https://sourceforge.net/projects/equalizerapo/
 
-Спасибо за идею https://github.com/Brad331/APOpreamp.ahk/
+Спасибо за идею и иконку https://github.com/Brad331/APOpreamp.ahk/
 1. Скачать .exe и расположить в удобное место, например: "C:\Program Files\EqualizerAPO\config\ahk\EqualizerAPO.exe"
 2. Запустить скрипт, при первом запуске в той же директории  создадутся два файла: ahk.tmp и ahk.txt
 3. В Equalizer APO добавить функцию Include и выберать файл ahk.txt
