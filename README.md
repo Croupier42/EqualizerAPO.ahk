@@ -9,6 +9,7 @@
 5. Перезапусить скрипт
 6. Отправить скрипт в автозагрузку
 
-Поддержать меня материально <3
-
+# Поддержать меня материально <3
 ![qr](https://github.com/user-attachments/assets/5ae2c744-718e-4046-9ba7-a583f7b7abba)
+
+https://www.sberbank.com/sms/pbpn?requisiteNumber=79518135797
