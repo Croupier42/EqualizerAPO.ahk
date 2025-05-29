@@ -1,5 +1,5 @@
 # EqualizerAPO.ahk
-Скрипт для [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/)
+Скрипт для [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
 
 Создан на [AutoHotkey v1.1.37.02](https://www.autohotkey.com/)
 
